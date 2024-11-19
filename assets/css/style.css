@@ -492,7 +492,7 @@ section {
   font-weight: 700;
   font-size: 32px;
 }
-@media (max-width: 200px) {
+@media (max-width: 1000px) {
   #about .about-container .title {
     padding-top: 15px;
   }
